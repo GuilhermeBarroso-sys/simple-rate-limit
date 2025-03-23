@@ -45,8 +45,8 @@ Each key has an expiration time of 5 minutes to automatically clean up old recor
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/redis-api-test.git
-   cd redis-api-test
+   git clone https://github.com/yourusername/simple-rate-limit.git
+   cd simple-rate-limit
    ```
 
 2. Install dependencies:
